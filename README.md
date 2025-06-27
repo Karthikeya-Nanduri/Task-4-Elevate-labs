@@ -1,5 +1,7 @@
 # Task-4-Elevate-labs
 
+** FIREWALL CONFIGURATION **
+
 Installed UFW firewall tool on Kali Linux.
 
 Enabled the firewall using sudo ufw enable.
